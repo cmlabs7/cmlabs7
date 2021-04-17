@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmlabs7
-- 👀 I’m interested in becoming a Full-Stack Developer
+- 👀 I’m interested in becoming a Full-Stack Developer with a focus on back-end. 
 - 🌱 I’m currently working my way through The Odin Project curriculum and learning Ruby on Rails
 - 💞️ I have a love/hate relationship with Javascript
 
