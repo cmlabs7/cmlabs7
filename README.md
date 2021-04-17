@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmlabs7
 - 👀 I’m interested in becoming a Full-Stack Developer
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently working my way through The Odin Project curriculum and learning Ruby on Rails
 - 💞️ My favourite language is Javascript and I'm looking to collaborate on new projects
 
 <!---
