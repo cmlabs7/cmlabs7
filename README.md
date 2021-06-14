@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @cmlabs7
-- 👀 Full-Stack Developer
-- 💞️ ES6 was an amazing update imo
+- 👋 Hi, I’m @cmlabs7 - Full-Stack Developer
+- 💞️ Ruby 
 
 <!---
 cmlabs7/cmlabs7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
