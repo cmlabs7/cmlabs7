@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmlabs7 - Full-Stack Developer
+- 👋 Hi, I’m @cmlabs7 - Developer and CS Student
 - 💞️ Ruby 
 
 <!---
